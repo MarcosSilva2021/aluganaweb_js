@@ -36,6 +36,7 @@
     <li>Node.js - biblioteca Express como plataforma back-end</li>    
     <li>knex.js como biblioteca de acesso ao banco de dados</li>
     <li>MySQL como banco de dados</li>
+    <li>bcrypt - biblioteca para criptografia de senhas</li>
 </ul>
 
 
