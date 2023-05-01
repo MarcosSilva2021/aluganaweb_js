@@ -25,7 +25,8 @@
     <li>knex.js como biblioteca de acesso ao banco de dados</li>
     <li>MySQL como banco de dados</li>
     <li>bcrypt - biblioteca para criptografia de senhas</li>
-    <li>middleware - cookie-session - biblioteca do Express</li>   
+    <li>middleware - cookie-session - biblioteca do Express</li>
+    <li>multer - biblioteca para upload de arquivos no sistema</li>  
 </ul>
 
 
