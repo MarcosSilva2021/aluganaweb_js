@@ -5,8 +5,6 @@
 <p>Este aplicativo está sendo desenvolvido como proposta de projeto para a disciplina de projeto integrado.<br>
 
 
-
-
 <h2>
 🛑 Pré-requistos
 </h2>
@@ -18,16 +16,6 @@
 ✅ Conta no GitHub<br>
 
 
-
-<ol>
-    <li> Apresentação do Projeto  </li>
-    <li> Configuração do banco de dados (SGBD <em>PostgreSQL</em>)</li>
-    <li> Aplicando as <em>annotations</em></li>
-    <li>Execução do fluxo back-end: <em>Controller - Service - Repository</em></li>
-    <li>Validação - <em>Hibernate Validator</em> </li>
-    <li>Consultas Avançadas - <em>Derived Query - Native Query</em></li>
-</ol>
-
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
@@ -37,12 +25,13 @@
     <li>knex.js como biblioteca de acesso ao banco de dados</li>
     <li>MySQL como banco de dados</li>
     <li>bcrypt - biblioteca para criptografia de senhas</li>
+    <li>middleware - cookie-session - biblioteca do Express</li>   
 </ul>
 
 
 <h2>Anotações do Banco de dados</h2>
 
-<strong>Tabelas</strong>
+<h2><strong>Tabelas</strong></h2>
 <ul>
     <li>owners</li>
     <li>clients </li>
@@ -51,6 +40,5 @@
     <li>sales</li>
     <li>items</li>   
 </ul>
-
 
 
